@@ -1,8 +1,8 @@
 {
-  "company_name": "ChangeMe Company",
-  "bot_name": "ChangeMe Assistant",
-  "bot_goal": "Help users understand the company, solve common problems, and know when to contact a human.",
-  "target_users": "Customers, employees, or technicians",
+  "company_name": "Soluciones Digitales de la Laguna",
+  "bot_name": "SDL Assistant",
+  "bot_goal": "Ayuda a entender a la compañia a entender problemas comunes, y a saber cuando contactar a humanos.",
+  "target_users": "Clientes, empleados, o tecnicos",
   "product_service": "Describe the product or service here",
   "contact_email": "support@example.com",
   "timezone": "Europe/Madrid",
