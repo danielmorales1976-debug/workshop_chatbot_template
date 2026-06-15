@@ -6,10 +6,10 @@
   "product_service": "Describe the product or service here",
   "contact_email": "support@example.com",
   "timezone": "Europe/Madrid",
-  "welcome_message": "Hi! I am your workshop chatbot. Ask me about the company, and try switching models and tools to compare token usage and speed.",
-  "escalation_text": "I recommend contacting a human from the company for this case.",
+  "welcome_message": "Hola soy tu charbot. Preguntame y prueba.",
+  "escalation_text": "Te recomiendo contactar a personal humano en este caso.",
   "examples_of_good_questions": [
-    "What services does the company offer?",
+    "Que tipo de servicios ofrece?",
     "How much is 120 times 0.21?",
     "How can you help me?"
   ]
